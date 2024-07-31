@@ -2,7 +2,7 @@
 👀 I’m interested in revolutionizing the tech industry with innovative solutions.
 🌱 I’m currently learning advanced machine learning algorithms and blockchain technology.
 💞️ I’m looking to collaborate on cutting-edge tech projects and open-source initiatives.
-📫 How to reach me: wizardtech.solutions@example.com
+📫 How to reach me: wizardtech.solutions@wizardtech.com.br
 😄 Pronouns: He/Him
 ⚡ Fun fact: When I'm not coding, you can find me playing chess or exploring the latest tech gadgets.
 
